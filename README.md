@@ -2,9 +2,9 @@
 
 Nine British women whose Second World War work was remembered under a man's name.
 The page shows the men first. Hover over a portrait and the woman who did the work
-appears; click to read her story, with a short note on the man who got the credit.
+appears; click to read her story, with a short note on the man who got the credit.  
 
-Plain HTML, CSS and JavaScript. No build step, no dependencies to install.
+Plain HTML, CSS and JavaScript. No build step, no dependencies to install.  
 
 ## Files
 
