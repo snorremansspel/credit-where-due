@@ -15,7 +15,7 @@ const PAIRS = [
       role: "Mathematician, Hut 8",
       photo: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Alan_turing_header.jpg",
       credit:
-        "Turing designed the Bombe, the machine that broke the German Enigma cipher, and led Hut 8 against the U-boat codes. His work was genuinely decisive. After his death he became the face of Bletchley Park: a statue, a banknote, a royal pardon and a Hollywood film. In that film the one woman cryptanalyst in his hut appears mainly as his fiancée."
+        "Turing played a central role in developing the British Bombe, building on earlier Polish cryptographic breakthroughs and working alongside Gordon Welchman. He also led Hut 8 in its efforts to decipher German naval Enigma."
     },
     her: {
       name: "Joan Clarke",
@@ -27,11 +27,11 @@ const PAIRS = [
         "Joan Clarke was a Cambridge mathematician with a double first she was never formally awarded, because Cambridge did not grant full degrees to women until 1948. Her supervisor, Gordon Welchman, recruited her to Bletchley Park in 1940.",
         "Within months she was working alongside Turing in Hut 8 on the German naval Enigma, the cipher protecting the U-boats that were strangling Britain's Atlantic supply lines. She became expert in Banburismus, the statistical technique that cut the Bombe's workload, and was regarded as one of the hut's best practitioners of it.",
         "The Civil Service had no job title for a woman doing this work, so she was classified and paid as a linguist. She later joked that on the form she wrote \"grade: linguist, languages: none\". Her male colleagues doing the same job earned more.",
-        "She was briefly engaged to Turing in 1941. In 1944 she became deputy head of Hut 8. After the war she continued at GCHQ, and received an MBE in 1946. Bound by the Official Secrets Act, she said almost nothing about her work for the rest of her life.",
-        "When her story finally reached the public, it came through Turing's: in The Imitation Game she is the love interest. The woman who helped break the U-boat codes is remembered mostly for whom she nearly married."
+        "She was briefly engaged to Turing in 1941. In 1944 she became deputy head of Hut 8. After the war she continued working in British intelligence and received an MBE for her wartime contributions. Bound by the Official Secrets Act, she said almost nothing about her work for the rest of her life.",
+        "When her story reached a wider audience through The Imitation Game, much of the narrative centred on her relationship with Turing rather than her independent mathematical achievements."
       ],
       sources: [
-        { label: "Joan Clarke, Wikipedia", url: "https://en.wikipedia.org/wiki/Joan_Clarke" },
+        { label: "Joan Clarke, Mac Tutor", url: "https://mathshistory.st-andrews.ac.uk/Biographies/Clarke_Joan/" },
         { label: "Bletchley Park Roll of Honour", url: "https://bletchleypark.org.uk/roll-of-honour/" }
       ]
     }
@@ -45,7 +45,7 @@ const PAIRS = [
       role: "Commander-in-Chief, Mediterranean Fleet",
       photo: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Andrew_Cunningham_1947.jpg",
       credit:
-        "Cunningham commanded the Royal Navy's victory at Cape Matapan in March 1941, the heaviest Italian naval defeat of the war. It made him a national hero, and he rose to Admiral of the Fleet, First Sea Lord and a viscountcy. He quietly visited Bletchley Park to thank the codebreakers, but for the next thirty years the public story was that the fleet had simply caught the Italians at sea."
+        "Cunningham commanded the Royal Navy's victory at Cape Matapan in March 1941, the heaviest Italian naval defeat of the war. It made him a national hero, and he rose to Admiral of the Fleet, First Sea Lord and a viscountcy. Cunningham personally thanked the Bletchley Park codebreakers, but the secrecy surrounding their work prevented their contributions from becoming publicly known for decades."
     },
     her: {
       name: "Mavis Batey",
@@ -61,7 +61,7 @@ const PAIRS = [
         "She described her wartime self as \"just one of the girls\". The men she worked for are the ones with biographies."
       ],
       sources: [
-        { label: "Mavis Batey, Wikipedia", url: "https://en.wikipedia.org/wiki/Mavis_Batey" },
+        { label: "Mavis Batey, UCL", url: "https://www.ucl.ac.uk/about/search-faces-ucl/breaking-bletchley-mavis-batey-student-codebreaker" },
         { label: "Obituary, The Telegraph (2013)", url: "https://www.telegraph.co.uk/news/obituaries/10446409/Mavis-Batey.html" }
       ]
     }
@@ -121,7 +121,7 @@ const PAIRS = [
         "She later wrote biographies of other people and, by her own account, was happiest with the technical work. The public announcements were made by politicians."
       ],
       sources: [
-        { label: "Constance Babington Smith, Wikipedia", url: "https://en.wikipedia.org/wiki/Constance_Babington_Smith" },
+        { label: "Constance Babington Smith, MigFlug", url: "https://migflug.com/afterburner/constance-babington-smith-v-1-peenemunde-medmenham/" },
         { label: "Imperial War Museums, Medmenham", url: "https://www.iwm.org.uk/history/the-secret-wartime-work-of-the-photographic-interpreters" }
       ]
     }
@@ -151,7 +151,7 @@ const PAIRS = [
         "Her name appears in the histories of the radar war as a footnote to the men who decided to use what she had made."
       ],
       sources: [
-        { label: "Joan Curran, Wikipedia", url: "https://en.wikipedia.org/wiki/Joan_Curran" },
+        { label: "Joan Curran, Government of Canada", url: "https://parks.canada.ca/lhn-nhs/on/haida/culture/femmes-women/curran" },
         { label: "Royal Society of Edinburgh, biographical note", url: "https://www.rse.org.uk/" }
       ]
     }
@@ -181,7 +181,8 @@ const PAIRS = [
         "Her fix is in every history of the Spitfire. Her name, usually, is in the joke."
       ],
       sources: [
-        { label: "Beatrice Shilling, Wikipedia", url: "https://en.wikipedia.org/wiki/Beatrice_Shilling" },
+        { label: "Beatrice Shilling, The University of Manchaster", url: "https://www.manchester.ac.uk/about/news/beatrice-shilling--engineer-and-battle-of-britain-heroine/" },
+        { label: "Beatrice Shilling, Institution of mechanical engineers", url: "https://imechearchive.wordpress.com/2020/03/06/international-womens-day-2020-highlight-on-beatrice-shilling/" },
         { label: "Royal Academy of Engineering profile", url: "https://raeng.org.uk/" }
       ]
     }
@@ -211,7 +212,7 @@ const PAIRS = [
         "Buckmaster's name is on the memoirs. Hers is on the files that told the families."
       ],
       sources: [
-        { label: "Vera Atkins, Wikipedia", url: "https://en.wikipedia.org/wiki/Vera_Atkins" },
+        { label: "Vera Atkins, Rusi", url: "https://www.rusi.org/publication/life-secrets-vera-atkins-and-lost-agents-soe" },
         { label: "Sarah Helm, A Life in Secrets (2005)", url: "https://en.wikipedia.org/wiki/A_Life_in_Secrets" }
       ]
     }
@@ -241,7 +242,7 @@ const PAIRS = [
         "She said she had never wanted to be anything but a scientist, and was cheerful about the name order. The British loaf is fortified because of her, and most people have never heard of either of them."
       ],
       sources: [
-        { label: "Elsie Widdowson, Wikipedia", url: "https://en.wikipedia.org/wiki/Elsie_Widdowson" },
+        { label: "Elsie Widdowson, Royal College Of Physicians", url: "https://history.rcp.ac.uk/inspiring-physicians/elsie-may-widdowson" },
         { label: "British Nutrition Foundation", url: "https://www.nutrition.org.uk/" }
       ]
     }
@@ -271,7 +272,7 @@ const PAIRS = [
         "The ATA's histories open with d'Erlanger. The equal pay belongs to her."
       ],
       sources: [
-        { label: "Pauline Gower, Wikipedia", url: "https://en.wikipedia.org/wiki/Pauline_Gower" },
+        { label: "Pauline Gower, The History Press", url: https://thehistorypress.co.uk/article/pauline-gower-pioneering-leader-of-the-spitfire-women/" },
         { label: "ATA Museum, Maidenhead", url: "https://atamuseum.org/" }
       ]
     }
