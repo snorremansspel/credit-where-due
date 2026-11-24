@@ -272,7 +272,7 @@ const PAIRS = [
         "The ATA's histories open with d'Erlanger. The equal pay belongs to her."
       ],
       sources: [
-        { label: "Pauline Gower, The History Press", url: https://thehistorypress.co.uk/article/pauline-gower-pioneering-leader-of-the-spitfire-women/" },
+        { label: "Pauline Gower, The History Press", url: "https://thehistorypress.co.uk/article/pauline-gower-pioneering-leader-of-the-spitfire-women/" },
         { label: "ATA Museum, Maidenhead", url: "https://atamuseum.org/" }
       ]
     }
