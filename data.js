@@ -181,7 +181,7 @@ const PAIRS = [
         "Her fix is in every history of the Spitfire. Her name, usually, is in the joke."
       ],
       sources: [
-        { label: "Beatrice Shilling, The University of Manchaster", url: "https://www.manchester.ac.uk/about/news/beatrice-shilling--engineer-and-battle-of-britain-heroine/" },
+        { label: "Beatrice Shilling, The University of Manchester", url: "https://www.manchester.ac.uk/about/news/beatrice-shilling--engineer-and-battle-of-britain-heroine/" },
         { label: "Beatrice Shilling, Institution of mechanical engineers", url: "https://imechearchive.wordpress.com/2020/03/06/international-womens-day-2020-highlight-on-beatrice-shilling/" },
         { label: "Royal Academy of Engineering profile", url: "https://raeng.org.uk/" }
       ]
